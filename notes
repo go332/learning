@@ -1,10 +1,4 @@
-program ideas to practice and have fun:)
 
--Scratchy Melana: A scratching game where you win when you scratch 3 Melanas
-( advanced: needs graphic interface and mouse-user-interaction)
--Roman/Arabic number converter
--fun with strings:give out different stat about an inputed string
--crypting program(using normalizetext,caesarify
 We will provide you with a function called shiftAlphabet. This function takes one argument, an integer to specify the shift value, and returns a string, which is the uppercase alphabet shifted by the shift value. So if you call shiftAlphabet(2), you will get back the following string: “CDEFGHIJKLMNOPQRSTUVWXYZAB”
 
 Here is the implementation for shiftAlphabet, which you can just paste into your java file:
