@@ -55,5 +55,5 @@ So if you were to call
 String cyphertext = encryptString(“Who will win the election?”,  5, 3);
 String plaintext = decryptString(cyphertext, 5);
 … then you’ll get back the normalized input string “WHOWILLWINTHEELECTION”.
-
+w
 --------------------------------------------------------------
